@@ -1,7 +1,7 @@
 # Booky
 the online bookshop where customers can borrow books .
 
-The site managers are able to:
+The site admins are able to:
 -
 1. Add, remove, and edit library books.
 2. Accept or deny consumers' requests for borrow.
