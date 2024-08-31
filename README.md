@@ -1,5 +1,6 @@
 # Booky
-the online bookshop where customers can borrow books .
+The Booky library management system makes it easier for users to borrow books. 
+users register accounts within the system to search for available books, request to borrow them, and return them when finished. Administrators are also granted the ability to manage the books, authors, and borrowing operations.
 
 The site admins are able to:
 -
